@@ -1,0 +1,457 @@
+@media only screen and (min-width: 390px) and (max-width: 1440px) {
+  body {
+    width: 1440px;
+  }
+  /*header navbar*/
+  .hero {
+    width: 1440px;
+    padding: 0px 62px 0px 62px;
+    margin-bottom: 169px;
+  }
+  .hero__nav {
+    width: 1316px;
+    padding: 20px 18px 0px 18px;
+  }
+  .hero__img {
+    width: 109.27px;
+  }
+  .hero__menu {
+    width: 476px;
+    margin: auto;
+  }
+  .hero__item {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .home {
+    width: 99px;
+    padding: 24px, 30px, 24px, 30px;
+    border-top-left-radius: 10px;
+  }
+  .about {
+    width: 150px;
+    padding: 24px, 30px, 24px, 30px;
+  }
+  .portfolio {
+    width: 137px;
+    padding: 24px, 30px, 24px, 30px;
+  }
+  .service {
+    width: 117px;
+    padding: 24px, 30px, 24px, 30px;
+    border-top-right-radius: 10px;
+  }
+
+  .hero__btn {
+    width: 128px;
+    padding: 14px, 20px, 14px, 20px;
+    border-radius: 8px;
+    border-width: 1px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+  }
+
+  /*container section*/
+  .container {
+    width: 1440px;
+    gap: 60px;
+  }
+  .container__div {
+    width: 1440px;
+    padding: 0px 80px 0px 80px;
+    margin-bottom: 20px;
+  }
+  .container__text {
+    width: 1280px;
+    padding: 30px 400px 0px 0px;
+    gap: 24px;
+  }
+  .container__title {
+    width: 880px;
+    gap: 2px;
+    margin-bottom: 30px;
+  }
+  .container__portfolio {
+    font-size: 16px;
+    line-height: 21.86px;
+    width: 880px;
+  }
+  .container__heading {
+    width: 880px;
+    font-size: 48px;
+    line-height: 65.57px;
+  }
+  .container__paragraph {
+    width: 880px;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 310px;
+  }
+
+  .container__subcontainer {
+    width: 1280px;
+    padding: 18px 20px 18px 20px;
+  }
+  .subcontainer__div {
+    width: 137px;
+    position: relative;
+  }
+  .subcontainer__img {
+    position: relative;
+    width: 100px;
+  }
+  .container__img {
+    width: 1280px;
+    position: absolute;
+    top: 22px;
+  }
+  .star {
+    position: absolute;
+    width: 65px;
+    left: 17px;
+    top: 17px;
+  }
+  .subcontainer__text {
+    width: 164px;
+    font-size: 14px;
+    line-height: 19.12px;
+  }
+  .container__brands {
+    width: 1440px;
+    gap: 14px;
+    margin-bottom: 150px;
+  }
+  .brands__text {
+    width: 1440px;
+    font-size: 14px;
+    line-height: 19px;
+    margin-bottom: 20px;
+  }
+  .brands__list {
+    width: 1440;
+    padding: 24px 80px 24px 80px;
+  }
+
+  /*photography section */
+  .photography {
+    width: 1280px;
+    margin-bottom: 141px;
+  }
+  .photography__div {
+    width: 1280px;
+    padding: 60px 0px 60px 0px;
+    gap: 40px;
+  }
+  .photography__menu {
+    width: 1280px;
+    gap: 40px;
+    margin-bottom: 50px;
+  }
+  .photography__title {
+    width: 1116px;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 46px;
+  }
+  .photography__buttons {
+    width: 124px;
+    padding: 8px;
+    gap: 12px;
+    border-radius: 100px;
+  }
+
+  .photography__cards {
+    width: 1280px;
+    gap: 40px;
+  }
+  .photography__left {
+    width: 48px;
+    height: 48px;
+    padding: 10px;
+  }
+  .photography__right {
+    width: 48px;
+    height: 48px;
+    padding: 10px;
+  }
+  .card1 {
+    width: 400px;
+    gap: 14px;
+  }
+  .card__img {
+    width: 400px;
+  }
+  .card__info {
+    display: flex;
+    width: 265px;
+    gap: 2px;
+  }
+  .card__name {
+    width: 265px;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .card__date {
+    width: 265px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .card__btn {
+    width: 97px;
+    font-size: 12px;
+    line-height: 19px;
+  }
+  .card__view {
+    width: 121px;
+    padding: 4px 0px 4px 0px;
+    gap: 4px;
+  }
+
+  /*question section*/
+  .questions {
+    width: 1279px;
+    margin-bottom: 150px;
+  }
+  .questions__title {
+    width: 1279px;
+    padding: 0px 0px 40px 0px;
+    gap: 2px;
+  }
+  .questions__text {
+    width: 1279px;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .questions__heading {
+    width: 1279px;
+    font-size: 48px;
+    line-height: 66px;
+  }
+  .questions__subcontainer {
+    width: 1279px;
+  }
+  .questions__faqcontainer {
+    width: 640px;
+    gap: 8px;
+  }
+
+  .questions__faqitem {
+    width: 640px;
+    padding: 24px 40px 24px 40px;
+    gap: 30px;
+  }
+  .open {
+    margin-right: 83px;
+  }
+  .questions__textcontainer {
+    width: 490px;
+    gap: 20px;
+  }
+  .questions__head {
+    width: 490px;
+    font-size: 18px;
+    line-height: 25px;
+  }
+  .questions__paragraph {
+    width: 490px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .questions__btn {
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+  }
+
+  /*clients*/
+  .clients {
+    width: 1265px;
+    gap: 60px;
+    margin-bottom: 100px;
+  }
+  .clients__title {
+    width: 918px;
+    padding: 0px 0px 20px 0px;
+    gap: 2px;
+  }
+  .clients__title2 {
+    width: 918px;
+    padding: 0px 0px 3px 0px;
+    gap: 2px;
+  }
+  .clients__text {
+    width: 918px;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .clients__subcontainer {
+    width: 1265px;
+    padding: 0px 0px 40px 0px;
+    gap: 10px;
+    margin-bottom: 50px;
+  }
+  .clients__head {
+    width: 918px;
+    gap: 14px;
+  }
+  .clients__heading {
+    width: 918px;
+    font-size: 48px;
+    line-height: 66px;
+  }
+  .clients__review {
+    width: 918px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .clients__count {
+    width: 918px;
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .clients__btn {
+    width: 193px;
+    padding: 14px 20px 14px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .clients__itemscontainer {
+    width: 1265px;
+    gap: 20px;
+  }
+
+  .clients__card {
+    width: 409px;
+    padding: 30px;
+    gap: 24px;
+    border-radius: 10px;
+  }
+  .clients__paragraph {
+    width: 348px;
+    font-size: 18px;
+    line-height: 27px;
+  }
+  .clients__buttons {
+    width: 146px;
+    padding: 8px 0px 8px 0px;
+    gap: 8px;
+    border-radius: 100px;
+  }
+  .clients__info {
+    width: 348px;
+    margin-bottom: 30px;
+  }
+  .clients__facebook {
+    width: 38px;
+    height: 38px;
+    border-radius: 100px;
+    padding: 10px;
+  }
+  .clients__twitter {
+    width: 38px;
+    height: 38px;
+    border-radius: 100px;
+    padding: 10px;
+  }
+  .clients__linkin {
+    width: 38px;
+    height: 38px;
+    border-radius: 100px;
+    padding: 10px;
+  }
+  .client__stars {
+    margin-bottom: 20px;
+  }
+
+  /*footer section*/
+  .footer {
+    width: 1440px;
+  }
+  .footer__image {
+    margin-left: 500px;
+    width: 846px;
+    padding: 0px 0px 50px 0px;
+  }
+  .footer__list {
+    width: 1440px;
+    padding: 16px 0px 0px 0px;
+    gap: 16px;
+  }
+  .footer__item {
+    width: 236px;
+    gap: 10px;
+  }
+  .footer__text {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .footer__subcontainer {
+    width: 1440px;
+  }
+  .footer__work {
+    width: 1440px;
+    padding: 0px 80px 0px 80px;
+  }
+  .footer_connection {
+    width: 1440px;
+    padding: 40px 162px 40px 162px;
+    border-top: 1px solid #1c1c21;
+    display: flex;
+    justify-content: space-between;
+  }
+  .footer__first {
+    width: 521px;
+    padding: 80px 60px 80px 60px;
+    text-transform: uppercase;
+    gap: 50px;
+  }
+  .footer__description {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    margin-bottom: 50px;
+  }
+  .footer__first_div {
+    width: 401px;
+    gap: 4px;
+    display: flex;
+  }
+  .footer__title {
+    font-size: 48px;
+    line-height: 66px;
+  }
+
+  .footer__btn {
+    width: 104px;
+    padding: 16px, 40px, 16px, 40px;
+  }
+  .footer__links {
+    width: 759px;
+    padding: 80px, 50px, 80px, 50px;
+  }
+  .footer_link_container {
+    width: 98px;
+    gap: 16px;
+  }
+  .footer__link_text {
+    width: 41px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .footer__link_list {
+    list-style-type: none;
+    width: 98px;
+    gap: 4px;
+  }
+
+  .footer__second {
+    width: 1440px;
+    padding: 34px 80px 34px 80px;
+  }
+  .footer__second_text {
+    font-size: 14px;
+    line-height: 21px;
+  }
+}
